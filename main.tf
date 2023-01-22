@@ -1,5 +1,5 @@
  resource "azurerm_resource_group" "example" {
-  name     = "rg001"
+  name     = "drg001"
   location = "canada central"
 }
 resource "azurerm_public_ip" "example" {

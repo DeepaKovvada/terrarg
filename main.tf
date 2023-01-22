@@ -1,4 +1,4 @@
-data "azurerm_resource_group" "example" {
+ "azurerm_resource_group" "example" {
   name     = "datarg001"
   location = "canada central"
 }
